@@ -20,6 +20,7 @@
 		7C2A20CF252EB61D002E4104 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C2A20CE252EB61D002E4104 /* Assets.xcassets */; };
 		7C2A20D2252EB61D002E4104 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C2A20D0252EB61D002E4104 /* LaunchScreen.storyboard */; };
 		7C2A20DA252EBA20002E4104 /* RisultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2A20D9252EBA20002E4104 /* RisultViewController.swift */; };
+		7C98D2EA25380E88009F6F8B /* SlideshowApp in Resources */ = {isa = PBXBuildFile; fileRef = 7C98D2E925380E88009F6F8B /* SlideshowApp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		7C2A20D1252EB61D002E4104 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C2A20D3252EB61D002E4104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C2A20D9252EBA20002E4104 /* RisultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RisultViewController.swift; sourceTree = "<group>"; };
+		7C98D2E925380E88009F6F8B /* SlideshowApp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SlideshowApp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				7C2A20C4252EB61C002E4104 /* SlideshowApp */,
+				7C98D2E925380E88009F6F8B /* SlideshowApp */,
 				7C2A20C3252EB61C002E4104 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C17C7EF253562830071B521 /* 00.jpg in Resources */,
+				7C98D2EA25380E88009F6F8B /* SlideshowApp in Resources */,
 				7C17C7EC253562830071B521 /* 03.jpg in Resources */,
 				7C17C7EB253562830071B521 /* 02.jpg in Resources */,
 				7C17C7EE253562830071B521 /* 01.png in Resources */,
